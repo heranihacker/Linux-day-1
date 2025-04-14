@@ -12,6 +12,4 @@ List files with ls:
 ls
 Navigate to the Desktop using cd:
 cd Desktop
-Again, use ls to see what's in my Desktop:
-ls
 #Conclusion:These commands form the foundation of my Linux skills, allowing me to efficiently navigate and manage files in a Unix-like environment.
