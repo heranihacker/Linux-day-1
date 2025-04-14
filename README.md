@@ -1,9 +1,9 @@
 #My Linux Command Experience
-#Overview:
+Overview:
 This section showcases my familiarity with basic Linux commands used for navigating and managing files.
-#Key Commands
-##pwd: Prints the current working directory, helping me know where I am in the filesystem.
-##ls: Lists all files and directories in the current directory, allowing me to view the contents quickly. 
+Key Commands
+pwd: Prints the current working directory, helping me know where I am in the filesystem.
+ls: Lists all files and directories in the current directory, allowing me to view the contents quickly. 
 ##cd: Changes the current directory, enabling navigation through the filesystem. 
 #Example Workflow
 Use pwd to check my current location:
