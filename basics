@@ -1,0 +1,46 @@
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~]
+└──╼ [★]$ pwd
+/home/htb-ac-1832616
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~]
+└──╼ [★]$ ls
+cacert.der  Documents  Music     Public     Videos
+Desktop     Downloads  Pictures  Templates
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~]
+└──╼ [★]$ cd Desktop
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~/Desktop]
+└──╼ [★]$ ls
+htb_vpn_logs.log  my_credentials.txt  README.license
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~/Desktop]
+└──╼ [★]$ pwd
+/home/htb-ac-1832616/Desktop
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~/Desktop]
+└──╼ [★]$ ls
+htb_vpn_logs.log  my_credentials.txt  README.license
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~/Desktop]
+└──╼ [★]$ cd ..
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~]
+└──╼ [★]$ pwd
+/home/htb-ac-1832616
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[~]
+└──╼ [★]$ cd ..
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/home]
+└──╼ [★]$ pwd
+/home
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/home]
+└──╼ [★]$ cd ..
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/]
+└──╼ [★]$ pwd
+/
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/]
+└──╼ [★]$ ls
+bin   home            lib32       mnt   run       sys  vmlinuz
+boot  initrd.img      lib64       opt   sbin      tmp  vmlinuz.old
+dev   initrd.img.old  lost+found  proc  srv       usr
+etc   lib             media       root  swapfile  var
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/]
+└──╼ [★]$ 
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/]
+└──╼ [★]$ cd /home
+┌─[eu-academy-6]─[10.10.15.203]─[htb-ac-1832616@htb-b9mjcnqyex]─[/home]
+└──╼ [★]$ pwd
+/home
