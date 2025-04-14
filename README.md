@@ -3,6 +3,7 @@ My Linux Command Experience
 
 
 Overview
+
 This section showcases my familiarity with basic Linux commands used for navigating and managing files.
 
 Key Commands
@@ -17,17 +18,22 @@ cd: Changes the current directory, enabling navigation through the filesystem.
 
 
 Example Workflow
+
 Use pwd to check my current location:
+
 pwd
 
 
 List files with ls:
+
 ls
 
 
 Navigate to the Desktop using cd:
+
 cd Desktop
 
 
 Conclusion
+
 These commands form the foundation of my Linux skills, allowing me to efficiently navigate and manage files in a Unix-like environment.
