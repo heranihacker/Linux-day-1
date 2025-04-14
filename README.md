@@ -11,5 +11,5 @@ pwd
 List files with ls:
 ls
 Navigate to the Desktop using cd:
-cd Desktop
-  #Conclusion:These commands form the foundation of my Linux skills, allowing me to efficiently navigate and manage files in a Unix-like environment.
+cd Desktop.
+Conclusion:These commands form the foundation of my Linux skills, allowing me to efficiently navigate and manage files in a Unix-like environment.
